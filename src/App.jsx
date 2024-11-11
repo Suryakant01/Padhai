@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Padhai kro</h1>
+        <h1>Padhai kro BC!</h1>
         <iframe width="315" height="560"
           src="https://www.youtube.com/embed/0gBNeiy6auQ"
           title="YouTube video player"
