@@ -11,7 +11,7 @@ function App() {
           title="Study Motivation"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen></iframe>
+          allowFullScreen></iframe>
 
 
       </div>
